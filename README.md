@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 ## printf()
 The printf project is a collaboration between Erick okwema and Patroba omollo, actual students of Software Engineering at ALX School, were a function named "_printf" imitates the actual "printf" command located in the stdio.h library. It contains some of the basic features and functions found in the manual 3 of "printf".
@@ -328,3 +329,6 @@ Erick and Patroba
 ------------
 
 ### End
+=======
+0x11. C - printf
+>>>>>>> 8a887b850f5d758b79c4cf2e2bd42aff4cbc30c6
