@@ -1,7 +1,11 @@
+<<<<<<< HEAD
 
 #include "main.h"
 
 
+=======
+#include "main.h"
+>>>>>>> e76c6638b30d2309b8c9c163f5b6a074ba37c3b6
 
 /**
  *_printf - prints to the output
